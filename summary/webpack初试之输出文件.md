@@ -84,4 +84,4 @@ window.onload = function () {
 }
 ```
 
-`执行webpack，完成输出,成功向index页面添加了内容!`
+`执行webpack，完成输出,成功向index页面添加了内容`
