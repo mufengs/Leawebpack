@@ -1,3 +1,4 @@
+import index from  './index.css';
 window.onload = function () {
   let core = document.getElementById('ted')
   core.innerHTML = "开始webpack之旅"
